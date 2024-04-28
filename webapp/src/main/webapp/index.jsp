@@ -8,7 +8,7 @@
     <h1 style="color: #007bff;">¡Bienvenido!</h1>
     <p>Este es un ejemplo de una pantalla de bienvenida con colores en un archivo JSP.</p>
     <p>¡Espero que te guste!</p>
-
+<h2> KLK MIO CAMBIO CAMBIO </h2>
 </body>
 </html>
 
